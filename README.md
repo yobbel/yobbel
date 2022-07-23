@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yobbel
 - 👀 I’m interested in Gaming, Pen&Paper and now Coding.
-- 🌱 I’m currently learning 'js', 'reactjs' and a bit of 'html'. Maybe also gonna look a bit into python. Looking forward to gain knowledge and get better at coding. 
+- 🌱 I’m currently learning 'js', 'reactjs' and a bit of 'html/css'. Maybe also gonna look a bit into python. Looking forward to gain knowledge and get better at coding. 
 
 
 <!---
